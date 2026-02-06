@@ -20,7 +20,7 @@ This repository provides a structured path to learn containerization with Docker
 
 ### 🎯 Start Here
 - [**docs/LEARNING-PATH.md**](docs/LEARNING-PATH.md) — **Your roadmap** with recommended paths, visual guides, and success criteria
-- [**docs/quick-start.md**](docs/quick-start.md) — **⚡ Quick Start** for the three main tasks: Create Image → Run Container → Push
+- [**docs/quick-start.md**](docs/quick-start.md) — **Quick Start** for the three main tasks: Create Image → Run Container → Push
 
 ### 📖 Learn
 - [**docs/theory.md**](docs/theory.md) — **Complete Docker Theory** (containerization, architecture, all components explained)
@@ -95,7 +95,7 @@ git checkout -b docker-101
 
 ### Step 5: Commit and Push Your Work
 ```bash
-git add submission/screenshots/*
+git add .
 git commit -m "Complete Docker 101 labs with screenshots"
 git push origin docker-101
 ```

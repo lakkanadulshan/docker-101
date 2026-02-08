@@ -17,6 +17,14 @@ body:
     validations:
       required: true
   - type: input
+    id: email
+    attributes:
+      label: Email address
+      placeholder: "jane.doe@example.com"
+      description: "Your email address for communication about this submission"
+    validations:
+      required: true
+  - type: input
     id: pr
     attributes:
       label: PR URL
